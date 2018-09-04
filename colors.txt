@@ -3,3 +3,5 @@ some bug fix 2
 blue
 red
 white
+feature1 green
+feature1 yellow
